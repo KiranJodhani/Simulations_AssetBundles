@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2761780102
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: microscope
+      Dependencies: {}
